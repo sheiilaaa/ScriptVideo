@@ -16,9 +16,8 @@ Este script lo he hecho como parte de la práctica del módulo de Servicios (UF4
 
 ## Cómo se usa
 
-
-chmod +x descarga_youtube.sh
-./descarga_youtube.sh
+sudo chmod +x scriptM08.sh
+./scriptM08.sh
 
 ## Pruebas de Funcionamiento
 
