@@ -27,15 +27,23 @@ Para utilizar el script, lo primero que tenemos que hacer es darle permisos de e
 
 Hemos hecho una prueba completa para mostrar cómo funciona el script paso a paso. A continuación explicamos lo que se puede ver en cada una de las capturas que hemos incluido.
 
-### 1. Copiar la URL del vídeo
+### 1. Ejecución del script
 
-En la primera imagen vemos cómo el script nos pide que introduzcamos una URL de YouTube. Copiamos la dirección del vídeo que queremos procesar y la pegamos directamente.
+Se ejecuta este y se comprueba si las herramientas que necesitamos estan, en este caso no lo estan así que las instala.
+
+<p align="center">
+  <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/ejecucion.png?raw=true" alt="Ejecución" />
+</p>
+
+### 2. Copiar la URL del vídeo
+
+En la primera imagen vemos cómo el script nos pide que introduzcamos una URL de YouTube. Copiamos la dirección del vídeo que queremos y la pegamos directamente.
 
 <p align="center">
   <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/copiarURL.png?raw=true" alt="Copiar URL" />
 </p>
 
-### 2. Pedir los formatos disponibles
+### 3. Pedir los formatos disponibles
 
 El script analiza la URL y nos muestra todos los formatos disponibles. Podemos elegir el que más nos convenga escribiendo su número.
 
@@ -45,23 +53,16 @@ El script analiza la URL y nos muestra todos los formatos disponibles. Podemos e
 
 ### 3. Seleccionar el formato 18
 
-Elegimos el formato número 18, que suele ser un `.mp4` con vídeo y audio juntos. Ideal para esta prueba.
+Elegimos el formato número 18, que suele ser un `.mp4` con vídeo y audio juntos. Ideal para esta prueba. Aunque se puede pedir por separado como se pied en la prueba pero en este caso el formato 22 no estaba disponible por el vídeo escogido.
 
 <p align="center">
   <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/formato18.png?raw=true" alt="Formato 18" />
 </p>
 
-### 4. Ejecución del script
-
-El script descarga el vídeo, separa el audio y genera un `.mp4` sin sonido comprimido con `libx264`.
-
-<p align="center">
-  <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/ejecucion.png?raw=true" alt="Ejecución" />
-</p>
 
 ### 5. Resultado final
 
-Nos muestra los archivos generados y su información técnica. Todo automático y sin errores.
+Nos muestra los archivos generados y su información técnica.
 
 <p align="center">
   <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/resultado.png?raw=true" alt="Resultado" />
