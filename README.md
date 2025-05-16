@@ -16,7 +16,7 @@ Este script lo he hecho como parte de la práctica del módulo de Servicios (UF4
 
 ## Cómo se usa
 
-```bash
+
 chmod +x descarga_youtube.sh
 ./descarga_youtube.sh
 
@@ -36,3 +36,6 @@ chmod +x descarga_youtube.sh
 
 ### 5. Resultado final: audio y vídeo sin audio generados
 ![Resultado](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/resultado.png?raw=true)
+
+
+```bash
