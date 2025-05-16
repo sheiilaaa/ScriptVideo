@@ -29,7 +29,7 @@ Hemos hecho una prueba completa para mostrar cómo funciona el script paso a pas
 
 ### 1. Ejecución del script
 
-Se ejecuta este y se comprueba si las herramientas que necesitamos estan, en este caso no lo estan así que las instala.
+Se ejecuta este y se comprueba si las herramientas que he mencionado se encuentran en la máquina, en este caso no lo estan así que las instala.
 
 <p align="center">
   <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/ejecucion.png?raw=true" alt="Ejecución" />
