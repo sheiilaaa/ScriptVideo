@@ -53,8 +53,7 @@ El script analiza la URL y nos muestra todos los formatos disponibles. Podemos e
 
 ### 3. Seleccionar el formato 18
 
-Elegimos el formato número 18, que suele ser un `.mp4` con vídeo y audio juntos. Ideal para esta prueba. Aunque se puede pedir por separado como se pied en la prueba pero en este caso el formato 22 no estaba disponible por el vídeo escogido.
-
+Elegimos el formato número 18, que suele ser un `.mp4` con vídeo y audio juntos. Ideal para esta prueba.
 <p align="center">
   <img src="https://github.com/sheiilaaa/ScriptVideo/blob/main/img/formato18.png?raw=true" alt="Formato 18" />
 </p>
