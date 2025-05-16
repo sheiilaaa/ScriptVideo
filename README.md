@@ -21,3 +21,18 @@ chmod +x descarga_youtube.sh
 ./descarga_youtube.sh
 
 ## Pruebas de Funcionamiento
+
+### 1. Copiar la URL del vídeo
+![Copiar URL](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/copiarURL.png?raw=true)
+
+### 2. Pedir los formatos disponibles
+![Pedir formato](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/PideFormato.png?raw=true)
+
+### 3. Seleccionar el formato 18
+![Formato 18](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/formato18.png?raw=true)
+
+### 4. Ejecución del script
+![Ejecución del script](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/ejecucion.png?raw=true)
+
+### 5. Resultado final: audio y vídeo sin audio generados
+![Resultado](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/resultado.png?raw=true)
