@@ -21,7 +21,6 @@ chmod +x descarga_youtube.sh
 ./descarga_youtube.sh
 
 ## Pruebas de Funcionamiento
-## 🧪 Pruebas de Funcionamiento
 
 ### 1. Copiar la URL del vídeo
 ![Copiar URL](https://github.com/sheiilaaa/ScriptVideo/blob/main/img/copiarURL.png?raw=true)
